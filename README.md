@@ -1,1 +1,1 @@
-enable chrome://extensions Developers mode
+enable Developers mode at `chrome://extensions`
