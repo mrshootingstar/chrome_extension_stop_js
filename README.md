@@ -1,0 +1,1 @@
+enable chrome://extensions Developers mode
